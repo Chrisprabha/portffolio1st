@@ -27,7 +27,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              As a front-end developer with <span className="purple" style={{ fontFamily: "sans-serif", fontSize: '20px', fontWeight: '700' }}> 1.6 years</span> of experience &nbsp;
+              As a front-end developer with <span className="purple" style={{ fontFamily: "sans-serif", fontSize: '20px', fontWeight: '700' }}> 2 years</span> of experience &nbsp;
               <br />
               specialize in building
               interactive and user-friendly
