@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import bank from "../../Assets/Projects/bank.png";
 import apparmentmanagement from "../../Assets/Projects/apparmentmanagement.jpg";
 import portfolio from "../../Assets/Projects/portfolio.png"
+import netflix from "../../Assets/Projects/netflix.jpg"
 
 function Projects() {
   return (
@@ -48,17 +49,17 @@ function Projects() {
               functionalities to handle payroll"          
             />
           </Col>
-{/*
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={netflix}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Basics-Netflix"
+              description="I developed a basic Netflix project featuring robust login authentication powered by Firebase. This project showcases my ability to integrate essential user authentication functionalities into web applications, ensuring secure access for users. Through this project, I demonstrated proficiency in leveraging Firebase's authentication services to enhance the functionality and security of web applications." 
+              // ghLink="https://github.com/soumyajit4419/Plant_AI"
+              demoLink="https://basic-neflix-clone.vercel.app/"
             />
           </Col>
+{/*
 
           <Col md={4} className="project-card">
             <ProjectCard
